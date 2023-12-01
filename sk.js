@@ -10,7 +10,6 @@ For example, if you prefer using VSCode:
 
 git config --global core.editor "code --wait"
 
-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
 
 shshsh
 bolobolooooooooo
